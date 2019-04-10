@@ -1,7 +1,8 @@
 package serverModel;
 import java.util.ArrayList;
 
-import interfaces.SocketPack;
+
+import serverModel.SocketPack;
 
 /**
  * The shop class that handles all backend operations regarding 

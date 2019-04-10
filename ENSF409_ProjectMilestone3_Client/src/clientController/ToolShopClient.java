@@ -8,7 +8,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 
 import interfaces.SessionID;
-import interfaces.SocketPack;
+import serverModel.SocketPack;
 
 
 /**

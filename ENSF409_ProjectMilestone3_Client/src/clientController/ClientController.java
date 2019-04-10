@@ -2,6 +2,7 @@ package clientController;
 
 import java.awt.event.*;
 
+
 import java.util.ArrayList;
 
 import javax.swing.JOptionPane;
@@ -9,7 +10,7 @@ import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
 import clientView.*;
-import interfaces.SocketPack;
+import serverModel.SocketPack;
 
 /**
  * The Controller as part of a MVC architecture that will control the GUI and
